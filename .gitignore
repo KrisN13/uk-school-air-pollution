@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+.profile_default/
+
+# OS / Editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs & temp files
+*.log
+*.tmp
+*.temp
+
+# Data files
+data/raw/*
+data/interim/*
+data/processed/*
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# Keep README placeholders
+!data/raw/README.md
+!data/interim/README.md
+!data/processed/README.md
+
+# Database artifacts
+*.sqlite
+*.db
+*.dump
+*.sql.bak
+
+# Tableau
+*.hyper
+*.twbx
+*.twb
+tableau/.temp/
+tableau/logs/
+
+# PDFs & exports (generated outputs)
+slides/*.pdf
+slides/*.pptx
+exports/
+
+# Credentials / secrets
+config.env
+secrets.env
+*.key
+*.pem
+
+# System-specific
