@@ -66,3 +66,4 @@ secrets.env
 *.pem
 
 # System-specific
+/docs
