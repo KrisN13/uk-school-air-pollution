@@ -10,7 +10,7 @@ This project uses spatial analytics and cost-benefit modeling to help educationa
 
 ## Problem Statement
 
-With 24,049 schools across England exposed to varying levels of air pollution and a potential £3.2 billion needed for interventions, how do we prioritize funding to maximize impact?
+With over 24,000 schools across England exposed to varying levels of air pollution and a potential £3.2 billion needed for interventions, how do we prioritize funding to maximize impact?
 
 ## Data Sources
 
@@ -24,7 +24,7 @@ With 24,049 schools across England exposed to varying levels of air pollution an
 - Spatial matching of schools to nearest monitoring stations
 - Aggregated pollution exposure metrics over time
 - Created exposure categories (Very High / High / Moderate / Low)
-- Standardized school identifiers and cleaned missing values
+- Standardised school identifiers and cleaned missing values
 
 ### ROI Analysis
 - Researched costs for 8 intervention types (air filtration, green barriers, traffic calming, etc.)
@@ -32,7 +32,7 @@ With 24,049 schools across England exposed to varying levels of air pollution an
 - Modeled effectiveness by exposure level using real-world case studies
 
 ### Visualization (Tableau Public)
-- Interactive budget simulator (£5M - £200M+)
+- Interactive budget simulator (£500k - £50M)
 - Intervention priority matrix (heat map by exposure level)
 - Geographic clustering map
 - Cumulative impact curves
@@ -58,19 +58,6 @@ Enables evidence-based allocation of £3.2B in potential funding:
 - £5M strategically allocated protects ~6,250 pupils
 - Same budget with even distribution protects only 1,500-2,000 pupils
 - Identifies top 1,000 priority schools for immediate intervention
-
-## Project Structure
-```
-├── sql/
-│   └── data_processing.sql          # PostGIS spatial matching queries
-├── data/
-│   ├── intervention_costs.csv       # Intervention pricing research
-│   └── intervention_effectiveness.csv
-├── tableau/
-│   └── school_intervention_analysis.csv  # Final analysis table
-└── presentation/
-    └── Air_Pollution_Funding_Impact.pptx
-```
 
 ## Limitations & Future Work
 

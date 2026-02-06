@@ -35,6 +35,7 @@ data/processed/*
 *.tsv
 *.xlsx
 *.parquet
+*.json
 
 # Keep README placeholders
 !data/raw/README.md
