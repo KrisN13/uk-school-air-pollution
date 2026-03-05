@@ -95,10 +95,6 @@ Demonstrates efficiency gains from targeted investment.
 
 ## Sustainability Impact
 
-- Measurable reduction in child pollution exposure  
-- Transparent ROI framework for public sector sustainability decisions  
-- Data-driven prioritisation aligned with ESG objectives  
-
-## License
-Data sources are publicly available.
-Analysis methodology and visualizations © 2026 Kris Noon
+- Measurable reduction in child pollution exposure
+- Transparent ROI framework for public sector sustainability decisions
+- Data-driven prioritisation aligned with ESG objectives
