@@ -73,12 +73,12 @@ Smaller budgets generate higher health impacts when exposure data drives budget 
 ### 1. Exposure Heatmap
 Interactive geographic map showing pollution intensity clusters across England.  
 Used to identify high-risk school concentrations and regional funding priority.
-[School Priority Map](images/School Priority Map.png)
+![School Priority Map](https://github.com/KrisN13/uk-school-air-pollution/blob/main/images/School%20Priority%20Map.png)
 
 ### 2. Intervention ROI Matrix
 Compares cost per pupil protected across intervention types.  
 Supports evidence-based budget allocation decisions.
-[Intervention ROI Matrix](images/Intervention ROI.png)
+(![Intervention ROI Matrix](https://github.com/KrisN13/uk-school-air-pollution/blob/main/images/Intervention%20ROI.png))
 
 ### 3. Budget Simulator
 Dynamic funding model from £500k to £50M.  
