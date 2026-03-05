@@ -78,7 +78,7 @@ Used to identify high-risk school concentrations and regional funding priority.
 ### 2. Intervention ROI Matrix
 Compares cost per pupil protected across intervention types.  
 Supports evidence-based budget allocation decisions.
-(![Intervention ROI Matrix](https://github.com/KrisN13/uk-school-air-pollution/blob/main/images/Intervention%20ROI.png))
+![Intervention ROI Matrix](https://github.com/KrisN13/uk-school-air-pollution/blob/main/images/Intervention%20ROI.png)
 
 ### 3. Budget Simulator
 Dynamic funding model from £500k to £50M.  
